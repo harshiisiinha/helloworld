@@ -1,0 +1,43 @@
+1) fetch all the products the name of product is starting with 'C' and 
+price >18 and  price<25
+
+2) group all the products based on the category id in desc order
+
+3) sum of all the prices of products belonging to a particular id
+
+4) find the avg of all the prices belonging to particular supplierid
+
+5) find the product name which has the prices lowest of all
+
+6) find the product unit and name which has the prices highest of all
+
+7) fetch the customer city, country and the shipperID id which have ordered the product.
+
+8) fetch the category name and description of all those products which has the price > 15 and price < 25
+
+9) fetch the customername ,postal code , city, order-date and quantity 
+
+10) fetch the product name, unit, price and their order date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
